@@ -1,4 +1,4 @@
- install flask
+install flask
 install mysqlclient
 install flask sql alchemy
 install flask login
